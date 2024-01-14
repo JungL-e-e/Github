@@ -47,4 +47,4 @@ Edit the file	- 파일을 업로드할때 수정한 상태로 업로드를 진�
 - Action:	누군가가 나에게 push를 했을 때, 코드가 문제없는지 실행을 해주고 자동으로 업로드도 해줄 수 있다.
 - Projects:	전체적인 프로젝트 현황을 정리해서 보여줌
 
-참고:	생활코딩 - https://www.youtube.com/playlist?list=PLuHgQVnccGMDWjb0TWItMCfDWDs8Y3Oo7
+references:	생활코딩 - https://www.youtube.com/playlist?list=PLuHgQVnccGMDWjb0TWItMCfDWDs8Y3Oo7
