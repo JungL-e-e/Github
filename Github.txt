@@ -1,0 +1,50 @@
+1. Git?
+버전관리 시스템	- CVS, SVN, GIT
+
+Dropbox 	- Dropbox Client:	다운받아서 설치, 실행하는 것, 업로드 역할
+		- dropbox.com(Server):	업로드한 것을 받아 저장하는 역할
+
+GIT		- Git Client:		여러 제품이 존재, 여러 client 종류가 있음
+		- Git Server:		저장소	ex) github.com
+
+* GIT 을 대중적으로 쓰는 이유?	- 대부분의 개발자들이 Github을 사용
+
+2. 저장소 생성
+
+commits		- 버전갯수
+contributors	- 협업자 수
+fork		- 복제
+
+3. 버전 생성
+
+Edit the file	- 파일을 업로드할때 수정한 상태로 업로드를 진행하면 기존에 있던 레포지토리에 파일에 수정한 것이 들어 간다.
+* 새로 생긴 파일이면 새로운 파일로 업로드 된다.
+
+4. git 구경하기
+
+* 다른 사람의 git을 보안키가 있으면 내 컴퓨터 안으로 불러올 수 있다.
+* 그외에도 명령어로 여러가지를 불러올 수 있다.
+	ex)	내가 최근에 수정한 파일 불러오기
+* 반대로 git에게 내가 수정한 파일을 보내서 저장 할 수도 있다. (push)
+
+5. 멤버추가
+
+* Settings - Collaborators - add people
+
+6. 이슈
+
+* 해당 프로젝트의 문제점을 토론하고 알려주는 역할
+- Assignees:	담당자를 따로 언급할 수 있다.
+- Label:	이슈 종류를 정할 수 있다
+- Close issue:	해결됐을 때 끝낼 수 있다.
+
+7. 수업을 마치며
+
+- Wiki:		프로젝트에 관한 정보, 설명서 역할
+- Insights:	프로젝트에 관한 지표
+		- Forks:	복제 (많은 사람들이 복제한 것이면 신뢰성이 높다는 뜻)
+- Pull requests:내가 forks로 작업한 것을 본래의 레포지토리에 적용하면 좋을때 요청하는 것
+- Action:	누군가가 나에게 push를 했을 때, 코드가 문제없는지 실행을 해주고 자동으로 업로드도 해줄 수 있다.
+- Projects:	전체적인 프로젝트 현황을 정리해서 보여줌
+
+참고:	생활코딩 - https://www.youtube.com/playlist?list=PLuHgQVnccGMDWjb0TWItMCfDWDs8Y3Oo7
